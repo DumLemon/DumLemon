@@ -1,6 +1,6 @@
- # 🍋 Lemon
+  # 🍋 Lemon
 
-**Junior Software Developer | Aspiring Game Developer**
+**Junior Software Developerㅤ&ㅤGame Developer**
 
 Hi! I'm Lemon (also known as Gabriel 👋)
 
@@ -21,8 +21,8 @@ Before diving into C#, I learned programming using **GML (GameMaker Language)**,
 
 * C# (.NET)
 * GML (GameMaker Language)
-* VS Code
-
+* Visual Studio
+| :-: |
 ---
 
 ### 🌍 Languages
@@ -37,9 +37,7 @@ Before diving into C#, I learned programming using **GML (GameMaker Language)**,
 ### 📌 Goals
 
 * Become a professional software developer
-* Work in game development or backend engineering
 * Build useful and creative projects
+* Dominate the world
 
 ---
-
-⭐ Feel free to check out my repositories and follow my journey!
